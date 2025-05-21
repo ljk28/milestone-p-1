@@ -139,4 +139,4 @@ Information about loyalty scheme and rewards
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Socal media Links# milestone-project-1

@@ -6,6 +6,11 @@ They want to be able to use this to ensure potential customers ( both corporate 
 They bake the classics (choc digestives and custard creams etc) as well as their own special range.
 They do delivery or pick up.
 
+### Rationale
+
+---
+
+
 # Contents 
 1. [User story 1](#user-story-1) 
 2. [User story 2](#user-story-2)
@@ -17,9 +22,10 @@ They do delivery or pick up.
 6. [Prices Page](#prices)
 7. [Order page](#order-page)
 8. [About page](#about-page)
-5. [Using Github to clone the repository](#using-github-to-clone-the-repository)
-6. [Links/images used references](#linksimages-used-and-references) 
-7. [Deploying the website](#deploying-the-website)
+9. [Testimonies](#testimony-page)
+10. [Using Github to clone the repository](#using-github-to-clone-the-repository)
+11. [Links/images used references](#linksimages-used-and-references) 
+12. [Deploying the website](#deploying-the-website)
 
 ### User story 1
 An estate agent wants to mark their one year anniversary of being in business by throwing a biscuit party for its workers. Profits are through the roof.
@@ -42,7 +48,9 @@ Bootstrap code for form and table
 Wireframes for each display size
 
 ## Homepage
-![Alt text](/Quotation.png)
+
+<img src="Quotation.png" alt="Alt Text" width="200" height="auto">
+
 
 ### Favicon
  * Use Free Fontawesome icon
@@ -70,8 +78,9 @@ Wireframes for each display size
 ---
 
 ## Gallery
-![Alt text](/Gallery.png)
-![Alt text](/Gallery2.png)
+<img src="Gallery.png" alt="gallery" width="200" height="auto">
+<img src="Gallery2.png" alt="gallery" width="200" height="auto">
+
 ### Favicon
  * Use Free Fontawesome icon
 ### Header with logo
@@ -98,7 +107,7 @@ Wireframes for each display size
 ---
 
 ## Prices
-![Alt text](/Prices.png)
+<img src="Prices.png" alt="prices" width="200" height="auto">
 
 ### Favicon
 ### Header with logo
@@ -131,10 +140,10 @@ Wireframes for each display size
 ---
 
 ## Order Page
-![Alt text](/Order%201.png)
-![Alt text](/order%202.png)
-![Alt text](/Order%203%20.png)
-![Alt text](/Order%204.png)
+<img src="Order 1.png" alt="order1" width="150" height="auto">
+<img src="order 2.png" alt="order2" width="150" height="auto">
+<img src="Order 3 .png" alt="order3" width="150" height="auto">
+<img src="Order 4.png" alt="order4" width="150" height="auto">
 
 ### Favicon
 ### Header with logo
@@ -164,7 +173,8 @@ Wireframes for each display size
 ---
 
 ## About Page
-![Alt text](/about.png)
+<img src="about.png" alt="about" width="200" height="auto">
+
 ### Favicon
 ### Header with logo
   
@@ -190,7 +200,8 @@ Information about loyalty scheme and rewards
 ---
 
 ## Testimony Page
-![Alt text](/Testimonies.png)
+<img src="Testimonies.png" alt="testimony" width="200" height="auto">
+
 ### Favicon
 ### Header with logo
   

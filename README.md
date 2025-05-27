@@ -36,7 +36,7 @@ This is one time they don’t think taking the biscuit is a bad thing.
 Testimonies and honest reviews are critical to get a large order.
 
 ### User story 3
-A woman wants a selection of fine British biscuits to offer to her neighbours and friends when they come round to celebrate her birthday later on in the week. Having a website to check out prices and see the quality is essential before she comes to pick them up after ordering.  
+A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate her passing her driving test. Having a website to check out prices and see the quality is essential before she comes to pick them up.
 
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes

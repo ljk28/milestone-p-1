@@ -46,12 +46,7 @@ $gradient-top-left: linear-gradient(225deg, #ffeadaff, #99490fff, #662c05ff, #ff
 $gradient-bottom-left: linear-gradient(315deg, #ffeadaff, #99490fff, #662c05ff, #ffbd59ff, #000000ff);
 $gradient-radial: radial-gradient(#ffeadaff, #99490fff, #662c05ff, #ffbd59ff, #000000ff);
 
-.navbar-brand {
-    color: #ffeada;
-}
-body {
-    background-color:#ffeada;
-}
+
 
 
 /* Media queries for logo on navbar */

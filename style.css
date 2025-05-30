@@ -2,6 +2,13 @@
     color: #ffeada;
 }
 
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+
 /* Media queries for logo on navbar */
 /* For mobile screensizes /*
 /* For tablet screensizes /*

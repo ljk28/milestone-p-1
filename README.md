@@ -148,8 +148,7 @@ Wireframes for each display size
    | Assortment | Large |  £15       | 
    | Choc digestive | Medium | £12   | 
    | Custard creams| Small | £8   | 
-  
-
+        (This is a Responsive table)
 ## Footer 
 * Contact Information 
    * Telephone number, address.

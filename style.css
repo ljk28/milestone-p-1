@@ -18,7 +18,7 @@
 
 
 @media (max-width: 600px) {
-  .footer-about, .footer-services, .footer-contact, .footer-follow {
+  .footer-address, .footer-email, .footer-telephone-number, .footer-follow {
       width: 100%;
       margin-bottom: 10px;
   }

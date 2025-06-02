@@ -9,7 +9,22 @@
     height: 100%;
   }
 
+  .footer-main {
+    background-color: #662c05;
+    color: #38b6ff;
+    text-align: center;
+    padding: 20px;
+}
 
+
+@media (max-width: 600px) {
+  .footer-about, .footer-services, .footer-contact, .footer-follow {
+      width: 100%;
+      margin-bottom: 10px;
+  }
+}
+
+/* reference for code for responsive footer [https://reintech.io/blog/creating-responsive-footer-with-css]*/
 /* Media queries for logo on navbar */
 /* For mobile screensizes /*
 /* For tablet screensizes /*

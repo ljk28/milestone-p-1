@@ -1,6 +1,4 @@
-.body {
-    color: #ffeada;
-}
+
 
 
 
@@ -11,14 +9,20 @@
 
   .footer-main {
     background-color: #662c05;
-    color: #38b6ff;
+    color: #ffeada
     text-align: center;
     padding: 20px;
+    height: 10px;
+    
+}
+
+h1 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
 @media (max-width: 600px) {
-  .footer-address, .footer-email, .footer-telephone-number, .footer-follow {
+  .footer {
       width: 100%;
       margin-bottom: 10px;
   }

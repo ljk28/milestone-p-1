@@ -4,15 +4,14 @@
   background-color: #E3AA75;
 }
 
-.img-fluid {
-    min-width: 100%;
-    height: auto;
-  }
+
 
   .footer {
+    color: #E3AA75;
     display: flex;
+    align-self: auto;
     background-color:#662c05;
-    font-size: small;
+    font-size: large;
     text-align: center;
 }
 
@@ -20,9 +19,9 @@
 
 
 
-h1 {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
+
+
 
 
 @media (min-width: 600px) {

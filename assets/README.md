@@ -9,7 +9,7 @@ They do delivery or pick up.
 ## Purpose 
 The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. 
 
-The users all have differing needs and wants. From fast turn-aroud for delivery to an easily accessible website to place orders.
+The users all have differing needs and wants. From fast turn-around for delivery to an easily accessible website to place orders.
 Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order after they place one.
 
 The gallery images provide the users with a taste of the selection on offer and the menu makes navigation easy to use. From clearly defined sections to an easy to read font. 

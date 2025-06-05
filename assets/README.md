@@ -10,9 +10,11 @@ They do delivery or pick up.
 The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. 
 
 The users all have differing needs and wants. From fast turn-aroud for delivery to an easily accesible website to place orders.
-Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order placement. 
+Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order after they place one.
 
 The gallery images provide the users with a taste of the selection on offer and the menu makes naiagtion easy to use.
+
+The footer has much needed conatc information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
 ---
 
@@ -40,7 +42,7 @@ An estate agent wants to mark their one year anniversary of being in business by
 ### User story 2
 A museum wants to showcase the British history of food and wants to give visitors an authentic experience with popular biscuits to give away.
 This is one time they don’t think taking the biscuit is a bad thing.
-Testimonies of the quality and being able to seamlessly order is what they need. Time is of the essence. So next day delivery is crucial.
+Testimonies of the quality and being able to seamlessly order is what they need. The museum manager will be making a call for next day delivery.
 
 ### User story 3
 A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate her passing her driving test. She is looking for an easy to naviagte website to check out prices and see the gallery before she comes to pick them up.

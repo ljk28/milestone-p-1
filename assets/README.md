@@ -12,9 +12,9 @@ The puspose of creating this website is to ensure the family run buisness meets 
 The users all have differing needs and wants. From fast turn-aroud for delivery to an easily accesible website to place orders.
 Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order after they place one.
 
-The gallery images provide the users with a taste of the selection on offer and the menu makes naiagtion easy to use.
+The gallery images provide the users with a taste of the selection on offer and the menu makes navigation easy to use.
 
-The footer has much needed conatc information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
+The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
 ---
 

@@ -3,10 +3,16 @@
 ## Description
 A British biscuit bakery is commemorating its 10th year and wants to showcase their biscuit selection with a fresh new website.
 They want to be able to use this to ensure potential customers ( both corporate and public) know what they sell and order via an order page.
-They bake the classics (choc digestives and custard creams etc) as well as their own special range.
-They do delivery or pick up.
+They do delivery or pick up. 
 
 ### Rationale
+## Purpose 
+The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. 
+
+The users all have differing needs and wants. From fast turn-aroud for delivery to an easily accesible website to place orders.
+Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order placement. 
+
+The gallery images provide the users with a taste of the selection on offer and the menu makes naiagtion easy to use.
 
 ---
 
@@ -29,15 +35,15 @@ They do delivery or pick up.
 12. [Deploying the website](#deploying-the-website)
 
 ### User story 1
-An estate agent wants to mark their one year anniversary of being in business by throwing a biscuit party for its workers. Profits are through the roof.
+An estate agent wants to mark their one year anniversary of being in business by throwing a biscuit party for its workers. Profits are through the roof. They live a biscuits throw away from the bakery so can pick up a batch order when it's ready. 
 
 ### User story 2
 A museum wants to showcase the British history of food and wants to give visitors an authentic experience with popular biscuits to give away.
 This is one time they don’t think taking the biscuit is a bad thing.
-Testimonies and honest reviews are critical to get a large order.
+Testimonies of the quality and being able to seamlessly order is what they need. Time is of the essence. So next day delivery is crucial.
 
 ### User story 3
-A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate her passing her driving test. Having a website to check out prices and see the quality is essential before she comes to pick them up.
+A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate her passing her driving test. She is looking for an easy to naviagte website to check out prices and see the gallery before she comes to pick them up.
 
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes

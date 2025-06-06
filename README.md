@@ -1,20 +1,23 @@
 # milestone-project-1
 
+<img src="../milestone-p-1/assets/images/logo.png">
+
 ## Description
-A British biscuit bakery is commemorating its 10th year and wants to showcase their biscuit selection with a fresh new website.
-They want to be able to use this to ensure potential customers ( both corporate and public) know what they sell and order via an order page.
+A British biscuit bakery is commemorating its 10th year and wants to showcase their exquisite biscuit selection with a fresh new website.
+They want to be able to use this to ensure potential customers (both corporate and public) know what they sell and order via an order page.
 They do delivery or pick up. 
 
-### Rationale
+
+# Rationale
 ## Purpose 
-The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. 
+The puspose of creating this website is to ensure the family run buisness meets the needs of its current and potential customers. They want to very much be in the 21st century and utilizing technology is a great way to achieve this. Expanding from their current address to online orders enables them to reach a wider customer base.
 
 The users all have differing needs and wants. From fast turn-around for delivery to an easily accessible website to place orders.
 Alongside a dropdown menu option for the order page, the users are taken to a new page informing them of a successful order after they place one.
 
 The gallery images provide the users with a taste of the selection on offer and the menu makes navigation easy to use. From clearly defined sections to an easy to read font. 
 
-This website has been made mobile friendly and scales up to accommodate larger screens. Being responsive to portrait and lanscape orientations. 
+This website has been made mobile friendly and scales up to accommodate larger screens. Being responsive to portrait and landscape orientations. 
 
 The footer has much needed contact information from the location and address to the telephone number. This ensures that customers/users have a fall back option.  
 
@@ -47,17 +50,15 @@ This is one time they don’t think taking the biscuit is a bad thing.
 Testimonies of the quality and being able to seamlessly order is what they need. The museum manager will be making a call for next day delivery.
 
 ### User story 3
-A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate her passing her driving test. She is looking for an easy to naviagte website to check out prices and see the gallery before she comes to pick them up.
+A woman wants a selection of fine British biscuits to offer to her daughter and friends when they come round to celebrate the passing of her driving test. She is looking for an easy to navigate website to check out prices and see the gallery before she comes to pick them up.
 
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes
-* use bootstrap for the order form and buttons on order page
-* Wireframes for mobile, tablet and desktop
----
+* use Bootstrap for the order form and buttons on order page
+* Wireframes for mobile, tablet and desktop!
 ### Colour Palette 
-<img src="assets/images/palette.png" alt="colour-palette" width="500" height="auto">
 
----
+<img src="../assets/images/palette.png">
 
 Bootstrap code for form and table
 
@@ -65,7 +66,7 @@ Wireframes for each display size
 
 ## Homepage
 
-<img src="homemobile1.png" alt="mobilehome" width="200" height="auto">
+<img src="../assets/wireframes/" alt="mobilehome" width="200" height="auto">
 <img src="HomePagetablet.png" alt="homepage" width="350" height="auto">
 <img src="homedesktop1.png" alt="homepage" width="400" height="auto">
 
@@ -111,11 +112,14 @@ Wireframes for each display size
   
 
 * Navigation bar (to include);
-   * Images page of boxes and types of biscuits on offer
+   * Images page of biscuits on offer
    * History of company (about page)
    * Prices page
    * Order from page (with table)
    * Testimony page
+
+
+<strong>(Please note: the '*ordersuccess.html'* page is hidden from the menu as it only needs to appear once an order is actually placed)<strong>
 
 ### Main Body
  Carousel with images (5-6)
@@ -138,12 +142,12 @@ Wireframes for each display size
 
 
 
-### Favicon
+## Favicon
 ### Header with logo
   
 
 * Navigation bar (to include);
-   * Images page of boxes and types of biscuits on offer
+   * Images page with types of biscuits on offer
    * History of company (about page)
    * Prices page
    * Order from page (with table)
@@ -158,11 +162,11 @@ Wireframes for each display size
    | Assortment | Large |  £15       | 
    | Choc digestive | Medium | £12   | 
    | Custard creams| Small | £8   | 
-        (This is a Responsive table)
+        This is a responsive table
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Socal Media Links
 
 ---
 ---
@@ -196,15 +200,14 @@ Wireframes for each display size
 ### Main Body
  * Form with dropdown list
  * Submit button
- * feedback response for user once submitted "successfully submitted order" or "order on its way"
- * link back to home page 
- * short survey about users favourite biscuits ( button with dropdown list) complete to enter prize draw for a chance to win free order
+ * Feedback response for user once submitted "successfully submitted order" or "order on its way"
+ * Link back to home page 
 
 
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Socal Media Links
 
 ---
 ---
@@ -214,27 +217,27 @@ Wireframes for each display size
 <img src="abouttab.png" alt="about" width="300" height="auto">
 <img src="aboutdesktop1.png" alt="about" width="350" height="auto">
 
-### Favicon
+## Favicon
 ### Header with logo
   
 
 * Navigation bar (to include);
-   * Images page of boxes and types of biscuits on offer
+   * Images page with types of biscuits on offer
    * History of company (about page)
    * Prices page
    * Order from page (with table)
    * Testimony page
 
 ### Main Body
- carousel with images (3)
-> company slogan
+ Carousel with images (3)
+> Company Slogan
 
 Information about loyalty scheme and rewards
 
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
+* Socal Media Links
 ---
 ---
 
@@ -243,7 +246,7 @@ Information about loyalty scheme and rewards
 <img src="Testimoniestab.png" alt="testimony" width="300" height="auto">
 <img src="testimoniesdesktop1.png" alt="testimoniesdesktop" width="350" height="auto">
 
-### Favicon
+## Favicon
 ### Header with logo
   
 
@@ -255,15 +258,14 @@ Information about loyalty scheme and rewards
    * Testimony page
 
 ### Main Body
- carousel with images (5-6)
+ Carousel with images (5-6)
 > Customer quotes/reviews 
 
 
 ## Footer 
 * Contact Information 
    * Telephone number, address.
-* Socal media Links
----
+* Socal Media Links
 ---
 
 ### Using Github to clone the repository

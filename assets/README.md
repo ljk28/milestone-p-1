@@ -53,11 +53,9 @@ A woman wants a selection of fine British biscuits to offer to her daughter and 
 ## User design/experience
 * Ensure all pages include responsive design for all screen sizes
 * use Bootstrap for the order form and buttons on order page
-* Wireframes for mobile, tablet and desktop
----
+* Wireframes for mobile, tablet and desktop![
 ### Colour Palette 
-<img src="Biscuit bakery (3)/palette.svg" alt="gallery" width="500" height="auto">
-
+![alt text](palette-2.png)
 ---
 
 Bootstrap code for form and table

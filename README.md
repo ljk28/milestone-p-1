@@ -58,7 +58,7 @@ A woman wants a selection of fine British biscuits to offer to her daughter and 
 * Wireframes for mobile, tablet and desktop!
 ### Colour Palette 
 
-<img src="assets/images/home.jpeg">
+<img src="assets/images/palette.png">
 
 Bootstrap code for form and table
 
@@ -206,7 +206,7 @@ Wireframes for each display size
 ---
 
 ## About Page
-<img src="" alt="about" width="200" height="auto">
+<img src="assets/wireframes/mobile/Quotation 2.jpeg" alt="about" width="200" height="auto">
 <img src="assets/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
 <img src="assets/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
 

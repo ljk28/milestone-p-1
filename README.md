@@ -295,4 +295,6 @@ File and folder paths were another big issue.
 In fact, most likely the biggest.
 Not being able to push commits as somehow it stopped working. Thus, forcing me to uninstall VSCode and reinstall it. I even had to delete some folders and files and rearrange them on my desktop computer. I downloaded the zip file from the Github project repository and I am grateful to my mentor who advised me to commit often. This saved me hours if not days of starting all over again. :)
 
+With Bootstrap there was an issue when things didn't seem to work. The j.script was either in the wrong place or it was outdated. 
+
 ### Deploying the website

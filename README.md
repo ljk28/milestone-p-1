@@ -66,7 +66,7 @@ Wireframes for each display size
 
 ## Homepage
 
-<img src="../assets/wireframes/" alt="mobilehome" width="200" height="auto">
+<img src="../milestone-p-1/home.jpeg" alt="mobilehome" width="200" height="auto">
 <img src="HomePagetablet.png" alt="homepage" width="350" height="auto">
 <img src="homedesktop1.png" alt="homepage" width="400" height="auto">
 

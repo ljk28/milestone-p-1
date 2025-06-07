@@ -270,6 +270,8 @@ Canva <br>
 Pexels
 ---
 Tutorials and websites and videos used to help with the contruction of the website are as follows:
+
+Keep Footer at the Bottom of the Page: HTML & CSS (2024) [https://www.youtube.com/watch?v=RYImAil3lgo]
 ---
 
 ### Deploying the website

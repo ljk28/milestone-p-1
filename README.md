@@ -265,11 +265,11 @@ Information about loyalty scheme and rewards
 ---
 
 ### Links/images used and references
-Adobe Stock Images
-Canva
+Adobe Stock Images <br>
+Canva <br>
 Pexels
 ---
 Tutorials and websites and videos used to help with the contruction of the website are as follows:
-
+---
 
 ### Deploying the website

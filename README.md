@@ -235,9 +235,9 @@ Information about loyalty scheme and rewards
 ---
 
 ## Testimony Page
-<img src="testimoniesmob.png" alt="testimony" width="200" height="auto">
-<img src="Testimoniestab.png" alt="testimony" width="300" height="auto">
-<img src="testimoniesdesktop1.png" alt="testimoniesdesktop" width="350" height="auto">
+<img src="assets/wireframes/mobile/testimoniesmob.jpeg" alt="testimony" width="200" height="auto">
+<img src="assets/wireframes/tablet/Testimonies.jpeg" alt="testimony" width="300" height="auto">
+<img src="assets/wireframes/desktop/Testimonies.jpeg" alt="testimoniesdesktop" width="350" height="auto">
 
 ## Favicon
 ### Header with logo

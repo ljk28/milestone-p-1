@@ -66,7 +66,7 @@ Wireframes for each display size
 
 ## Homepage
 
-<img src="assets/images/home.jpeg" alt="mobilehome" width="200" height="auto">
+<img src="assets/wireframes/mobile/home.jpeg" alt="mobilehome" width="200" height="auto">
 <img src="assets/wireframes/tablet/HomePage.jpeg" alt="homepage" width="350" height="auto">
 <img src="assets/wireframes/desktop/=.jpeg" alt="homepage" width="400" height="auto">
 

@@ -171,19 +171,13 @@ Wireframes for each display size
 ---
 
 ## Order Page
-<img src="assets/ordermob.png" alt="order1" width="150" height="auto">
-<img src="assets/ordermob1.png" alt="order2" width="150" height="auto">
-<img src="assets/ordermob2.png" alt="order3" width="150" height="auto">
-<img src="assets/ordermob3.png" alt="order4" width="150" height="auto">
-<img src="assets/ordermob4.png" alt="order1" width="150" height="auto">
-<img src="ordertab1.png" alt="order1" width="280" height="auto">
-<img src="ordertab2.png" alt="order2" width="280" height="auto">
-<img src="ordertab3.png" alt="order3" width="280" height="auto">
-<img src="ordertab4.png" alt="order4" width="280" height="auto">
-<img src="orderdesktop1.png" alt="order1" width="350" height="auto">
-<img src="orderdesktop2.png" alt="order2" width="350" height="auto">
-<img src="orderdesktop3.png" alt="order3" width="350" height="auto">
-<img src="orderdesktop4.png" alt="order4" width="350" height="auto">
+<img src="assets/wireframes/mobile/ordermobile.jpeg" alt="order1" width="150" height="auto">
+<img src="assets/wireframes/mobile/ordersuccessfulmob.jpeg" alt="order2" width="150" height="auto">
+<img src="assets/wireframes/tablet/Milestone1wireframes tablet 3.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="assets/wireframes/tablet/Order on its.jpeg" alt="ordertablet" width="150" height="auto">
+<img src="assets/wireframes/desktop/Wireframesdesktop.jpeg" alt="orderdesktop" width="280" height="auto">
+<img src="assets/wireframes/desktop/Wireframesdesktop 4.jpeg" alt="orderdesktop2" width="280" height="auto">
+
 
 ### Favicon
 ### Header with logo
@@ -212,9 +206,9 @@ Wireframes for each display size
 ---
 
 ## About Page
-<img src="aboutmobile.png" alt="about" width="200" height="auto">
-<img src="abouttab.png" alt="about" width="300" height="auto">
-<img src="aboutdesktop1.png" alt="about" width="350" height="auto">
+<img src="" alt="about" width="200" height="auto">
+<img src="assets/wireframes/tablet/Main text,.jpeg" alt="abouttablet" width="300" height="auto">
+<img src="assets/wireframes/desktop/Description.jpeg" alt="about" width="350" height="auto">
 
 ## Favicon
 ### Header with logo

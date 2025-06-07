@@ -99,11 +99,10 @@ Wireframes for each display size
 
 ## Gallery
 <img src="assets/wireframes/mobile/gallerymobile.jpeg" alt="gallery" width="200" height="auto">
-<img src="mobilegallery2.png" alt="gallery" width="200" height="auto">
-<img src="gallerytab1.png" alt="gallery" width="200" height="auto">
-<img src="gallerytab2.png" alt="gallery" width="200" height="auto">
-<img src="gallerydesktop1.png" alt="gallery" width="350" height="auto">
-<img src="gallerydesktop2.png" alt="gallery" width="350" height="auto">
+<img src="assets/wireframes/tablet/Gallery.jpeg" alt="gallery" width="200" height="auto">
+<img src="assets/wireframes/tablet/Gallery 2.jpeg" alt="gallery" width="200" height="auto">
+<img src="assets/wireframes/desktop/Gallery.jpeg" alt="gallery" width="350" height="auto">
+<img src="assets/wireframes/desktop/Gallery 2.jpeg" alt="gallery" width="350" height="auto">
 
 
 ### Favicon
@@ -135,10 +134,10 @@ Wireframes for each display size
 ---
 
 ## Prices
-<img src="pricesmob.png" alt="prices" width="200" height="auto">
-<img src="pricestab.png" alt="prices" width="300" height="auto">
+<img src="assets/wireframes/mobile/pricesmobile.jpeg" alt="prices" width="200" height="auto">
+<img src="assets/wireframes/tablet/Prices.jpeg" alt="prices" width="300" height="auto">
 <br>
-<img src="pricesdesktop1.png" alt="prices" width="400" height="auto">
+<img src="assets/wireframes/desktop/Image.jpeg" alt="prices" width="400" height="auto">
 
 
 
